@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy.stats import gaussian_kde
 
-# Load Excel file (update the file path if necessary)
+# Load Excel file 
 file_path = "your_excel_file.xlsx"
 df = pd.read_excel(file_path)
 
