@@ -1,4 +1,4 @@
-# Heat map
+#KDE plot comparing sensitive vs. non-sensitive soils using density ratio, Heat map
 ############
 import pandas as pd
 import numpy as np
